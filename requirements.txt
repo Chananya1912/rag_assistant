@@ -1,0 +1,5 @@
+python-dotenv
+mistralai
+requests
+pypdf
+chromadb
